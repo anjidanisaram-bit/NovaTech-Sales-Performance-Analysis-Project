@@ -190,13 +190,8 @@ The Power BI dashboard provides an interactive view of the analyzed data.
 - 🔎 Interactive Filters
 - 📊 Business Performance Overview
 
-> Add your Power BI dashboard screenshot here.
+<img width="1202" height="682" alt="Screenshot 2026-10-03 123145" src="https://github.com/user-attachments/assets/73b2c539-ea74-4ae0-becc-563e338c914e" />
 
-```markdown
-![Power BI Dashboard](images/dashboard.png)
-```
-
----
 
 ## 📈 Results
 
@@ -234,8 +229,8 @@ Based on the analysis, recommendations can be developed around:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/data-analytics-project.git
-```
+[git clone https://github.com/yourusername/data-analytics-project.git
+](https://github.com/anjidanisaram-bit/NovaTech-Sales-Performance-Analysis-Project)```
 
 ### Step 2: Install Python Libraries
 
